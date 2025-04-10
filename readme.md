@@ -82,10 +82,10 @@ Export your citations from Zotero, Mendeley, or other reference managers as a Bi
 # docker run -t --rm -p 8070:8070 lfoppiano/grobid:0.7.2
 
 # Basic usage
-python bibtex_to_structure.py path/to/your_references.bib output_directory
+python bibtoxml.py path/to/your_references.bib output_directory
 
 # If running GROBID on a different server
-python bibtex_to_structure.py path/to/your_references.bib output_directory --grobid_url http://your-grobid-server:8070
+python bibtoxml.py path/to/your_references.bib output_directory --grobid_url http://your-grobid-server:8070
 ```
 
 This script:
