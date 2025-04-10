@@ -1,0 +1,292 @@
+2025-04-09 10:42:45,066 - INFO - Loaded 17 entries from BibTeX
+2025-04-09 10:42:45,066 - INFO - Starting the BibTeX to Structured Text Pipeline
+2025-04-09 10:42:45,066 - INFO - Step 1: Retrieving PDFs
+2025-04-09 10:42:45,084 - INFO - Trying Unpaywall for DOI: 10.1177/089443902237317
+2025-04-09 10:42:45,659 - INFO - Trying alternative sources for DOI: 10.1177/089443902237317
+2025-04-09 10:43:15,832 - INFO - Searching for title: Making Computational Social Science Effective: {{Epistemology}}, Methodology, and Technology
+2025-04-09 10:43:16,628 - WARNING - Could not retrieve PDF for Making Computational Social Science Effective: {{Epistemology}}, Methodology, and Technology
+2025-04-09 10:43:16,636 - INFO - Trying Unpaywall for DOI: 10.1140/epjst/e2012-01697-8
+2025-04-09 10:43:17,490 - INFO - Trying alternative sources for DOI: 10.1140/epjst/e2012-01697-8
+2025-04-09 10:43:47,651 - INFO - Searching for title: Manifesto of Computational Social Science
+2025-04-09 10:43:49,636 - INFO - Downloaded PDF for title: Manifesto of Computational Social Science
+2025-04-09 10:43:49,637 - INFO - Trying Unpaywall for DOI: 10.1002/9781119954200.ch2
+2025-04-09 10:43:50,103 - INFO - Trying alternative sources for DOI: 10.1002/9781119954200.ch2
+2025-04-09 10:44:20,519 - INFO - Searching for title: Cooperation, {{Coordination}} and {{Social Norms}}
+2025-04-09 10:44:21,298 - WARNING - Could not retrieve PDF for Cooperation, {{Coordination}} and {{Social Norms}}
+2025-04-09 10:44:21,299 - INFO - Searching for title: Economic Reasoning and Artificial Intelligence {\textbar} {{Science}}
+2025-04-09 10:44:22,217 - WARNING - Could not retrieve PDF for Economic Reasoning and Artificial Intelligence {\textbar} {{Science}}
+2025-04-09 10:44:22,218 - INFO - Searching for title: Inverse {{Generative Social Science}}: {{Backward}} to the {{Future}}
+2025-04-09 10:44:23,782 - WARNING - Could not retrieve PDF for Inverse {{Generative Social Science}}: {{Backward}} to the {{Future}}
+2025-04-09 10:44:23,783 - INFO - Trying Unpaywall for DOI: 10.18564/jasss.5083
+2025-04-09 10:44:24,883 - INFO - Trying alternative sources for DOI: 10.18564/jasss.5083
+2025-04-09 10:44:55,070 - INFO - Searching for title: Inverse {{Generative Social Science}}: {{Backward}} to the {{Future}}
+2025-04-09 10:44:55,711 - WARNING - Could not retrieve PDF for Inverse {{Generative Social Science}}: {{Backward}} to the {{Future}}
+2025-04-09 10:44:55,712 - INFO - Trying Unpaywall for DOI: 10.18564/jasss.3521
+2025-04-09 10:44:56,645 - INFO - Trying alternative sources for DOI: 10.18564/jasss.3521
+2025-04-09 10:45:27,164 - INFO - Searching for title: Models of {{Social Influence}}: {{Towards}} the {{Next Frontiers}}
+2025-04-09 10:45:28,403 - WARNING - Could not retrieve PDF for Models of {{Social Influence}}: {{Towards}} the {{Next Frontiers}}
+2025-04-09 10:45:28,404 - INFO - Trying Unpaywall for DOI: 10.1016/j.jedc.2017.01.014
+2025-04-09 10:45:29,917 - INFO - Trying alternative sources for DOI: 10.1016/j.jedc.2017.01.014
+2025-04-09 10:46:00,099 - INFO - Searching for title: Bayesian Estimation of Agent-Based Models
+2025-04-09 10:46:01,295 - WARNING - Could not retrieve PDF for Bayesian Estimation of Agent-Based Models
+2025-04-09 10:46:01,296 - INFO - Trying Unpaywall for DOI: 10.1146/annurev-polisci-053119-015921
+2025-04-09 10:46:03,779 - INFO - Trying alternative sources for DOI: 10.1146/annurev-polisci-053119-015921
+2025-04-09 10:46:34,493 - INFO - Searching for title: Machine {{Learning}} for {{Social Science}}: {{An Agnostic Approach}}
+2025-04-09 10:46:35,103 - WARNING - Could not retrieve PDF for Machine {{Learning}} for {{Social Science}}: {{An Agnostic Approach}}
+2025-04-09 10:46:35,104 - INFO - Trying Unpaywall for DOI: 10.1098/rstb.2011.0180
+2025-04-09 10:46:35,690 - INFO - Trying alternative sources for DOI: 10.1098/rstb.2011.0180
+2025-04-09 10:47:05,926 - INFO - Searching for title: Pattern-Oriented Modelling: A `Multi-Scope' for Predictive Systems Ecology
+2025-04-09 10:47:06,542 - WARNING - Could not retrieve PDF for Pattern-Oriented Modelling: A `Multi-Scope' for Predictive Systems Ecology
+2025-04-09 10:47:06,542 - INFO - Trying Unpaywall for DOI: 10.1038/s41586-021-03659-0
+2025-04-09 10:47:06,993 - INFO - Trying alternative sources for DOI: 10.1038/s41586-021-03659-0
+2025-04-09 10:47:37,584 - INFO - Searching for title: Integrating Explanation and Prediction in Computational Social Science
+2025-04-09 10:47:38,482 - WARNING - Could not retrieve PDF for Integrating Explanation and Prediction in Computational Social Science
+2025-04-09 10:47:38,483 - INFO - Trying Unpaywall for DOI: 10.1007/978-90-481-8927-4_9
+2025-04-09 10:47:39,096 - INFO - Trying alternative sources for DOI: 10.1007/978-90-481-8927-4_9
+2025-04-09 10:48:09,207 - INFO - Searching for title: Modelling {{Human Behaviour}} in {{Agent-Based Models}}
+2025-04-09 10:48:09,733 - WARNING - Could not retrieve PDF for Modelling {{Human Behaviour}} in {{Agent-Based Models}}
+2025-04-09 10:48:09,733 - INFO - Trying Unpaywall for DOI: 10.1126/science.1167742
+2025-04-09 10:48:10,403 - INFO - Trying alternative sources for DOI: 10.1126/science.1167742
+2025-04-09 10:48:41,864 - INFO - Searching for title: Computational {{Social Science}}
+2025-04-09 10:48:44,959 - INFO - Downloaded PDF for title: Computational Social Science
+2025-04-09 10:48:44,960 - INFO - Searching for title: Multi-Agent {{Systems}}
+2025-04-09 10:48:45,853 - WARNING - Could not retrieve PDF for Multi-Agent {{Systems}}
+2025-04-09 10:48:45,854 - INFO - Trying Unpaywall for DOI: 10.1177/0894439313512975
+2025-04-09 10:48:46,436 - INFO - Trying alternative sources for DOI: 10.1177/0894439313512975
+2025-04-09 10:49:16,716 - INFO - Searching for title: Social Simulation in the Social Sciences: {{A}} Brief Overview
+2025-04-09 10:49:17,247 - WARNING - Could not retrieve PDF for Social Simulation in the Social Sciences: {{A}} Brief Overview
+2025-04-09 10:49:17,248 - INFO - Trying Unpaywall for DOI: 10.48550/arXiv.2312.03664
+2025-04-09 10:49:17,833 - INFO - Trying alternative sources for DOI: 10.48550/arXiv.2312.03664
+2025-04-09 10:49:47,970 - INFO - Trying arXiv for ID: 2312.03664
+2025-04-09 10:49:50,850 - INFO - Downloaded PDF for arXiv ID 2312.03664
+2025-04-09 10:49:50,851 - INFO - Trying Unpaywall for DOI: 10.1002/9781119954200.ch1
+2025-04-09 10:49:51,397 - INFO - Trying alternative sources for DOI: 10.1002/9781119954200.ch1
+2025-04-09 10:50:21,587 - INFO - Searching for title: What Is {{Agent-Based Computational Sociology}} All {{About}}?
+2025-04-09 10:50:22,932 - WARNING - Could not retrieve PDF for What Is {{Agent-Based Computational Sociology}} All {{About}}?
+2025-04-09 10:50:22,933 - INFO - Retrieved 3 PDFs out of 17 entries
+2025-04-09 10:50:22,933 - INFO - Step 2: Processing PDFs with GROBID
+2025-04-09 10:50:54,939 - INFO - Processed 5dc49760e4ee9c09d5ae730d6d73dbea.pdf
+2025-04-09 10:50:58,547 - INFO - Processed 9b226c8a82c8bb1b23d2374804d313b9.pdf
+2025-04-09 10:51:04,742 - INFO - Processed a18d22b86f3f60fe30cbf3001ea39307.pdf
+2025-04-09 10:51:05,743 - INFO - Processed 3 PDFs out of 3
+2025-04-09 10:51:05,744 - INFO - Pipeline completed: 3 PDFs processed successfully
+2025-04-09 10:56:31,483 - INFO - Loaded 17 entries from BibTeX
+2025-04-09 10:56:31,483 - INFO - Starting the BibTeX to Structured Text Pipeline
+2025-04-09 10:56:31,483 - INFO - Step 1: Retrieving PDFs
+2025-04-09 10:56:31,495 - INFO - Trying Unpaywall for DOI: 10.1177/089443902237317
+2025-04-09 10:56:31,893 - INFO - Trying alternative sources for DOI: 10.1177/089443902237317
+2025-04-09 10:57:02,080 - INFO - Searching for title: Making Computational Social Science Effective: {{Epistemology}}, Methodology, and Technology
+2025-04-09 10:57:02,329 - WARNING - Could not retrieve PDF for Making Computational Social Science Effective: {{Epistemology}}, Methodology, and Technology
+2025-04-09 10:57:02,330 - INFO - Trying Unpaywall for DOI: 10.1140/epjst/e2012-01697-8
+2025-04-09 10:57:03,079 - INFO - Trying alternative sources for DOI: 10.1140/epjst/e2012-01697-8
+2025-04-09 10:57:33,506 - INFO - Searching for title: Manifesto of Computational Social Science
+2025-04-09 10:57:35,424 - INFO - Downloaded PDF for title: Manifesto of Computational Social Science
+2025-04-09 10:57:35,425 - INFO - Trying Unpaywall for DOI: 10.1002/9781119954200.ch2
+2025-04-09 10:57:36,191 - INFO - Trying alternative sources for DOI: 10.1002/9781119954200.ch2
+2025-04-09 10:58:06,412 - INFO - Searching for title: Cooperation, {{Coordination}} and {{Social Norms}}
+2025-04-09 10:58:08,495 - INFO - Downloaded PDF for title: Cooperation Coordination and Social Norms
+2025-04-09 10:58:08,496 - INFO - Searching for title: Economic Reasoning and Artificial Intelligence {\textbar} {{Science}}
+2025-04-09 10:58:09,015 - WARNING - Could not retrieve PDF for Economic Reasoning and Artificial Intelligence {\textbar} {{Science}}
+2025-04-09 10:58:09,016 - INFO - Searching for title: Inverse {{Generative Social Science}}: {{Backward}} to the {{Future}}
+2025-04-09 10:58:09,546 - WARNING - Could not retrieve PDF for Inverse {{Generative Social Science}}: {{Backward}} to the {{Future}}
+2025-04-09 10:58:09,547 - INFO - Trying Unpaywall for DOI: 10.18564/jasss.5083
+2025-04-09 10:58:10,030 - INFO - Trying alternative sources for DOI: 10.18564/jasss.5083
+2025-04-09 10:58:40,188 - INFO - Searching for title: Inverse {{Generative Social Science}}: {{Backward}} to the {{Future}}
+2025-04-09 10:58:40,823 - WARNING - Could not retrieve PDF for Inverse {{Generative Social Science}}: {{Backward}} to the {{Future}}
+2025-04-09 10:58:40,825 - INFO - Trying Unpaywall for DOI: 10.18564/jasss.3521
+2025-04-09 10:58:41,272 - INFO - Trying alternative sources for DOI: 10.18564/jasss.3521
+2025-04-09 10:59:12,045 - INFO - Searching for title: Models of {{Social Influence}}: {{Towards}} the {{Next Frontiers}}
+2025-04-09 10:59:12,629 - WARNING - Could not retrieve PDF for Models of {{Social Influence}}: {{Towards}} the {{Next Frontiers}}
+2025-04-09 10:59:12,630 - INFO - Trying Unpaywall for DOI: 10.1016/j.jedc.2017.01.014
+2025-04-09 10:59:13,008 - INFO - Trying alternative sources for DOI: 10.1016/j.jedc.2017.01.014
+2025-04-09 10:59:43,138 - INFO - Searching for title: Bayesian Estimation of Agent-Based Models
+2025-04-09 10:59:43,665 - WARNING - Could not retrieve PDF for Bayesian Estimation of Agent-Based Models
+2025-04-09 10:59:43,666 - INFO - Trying Unpaywall for DOI: 10.1146/annurev-polisci-053119-015921
+2025-04-09 10:59:44,244 - INFO - Trying alternative sources for DOI: 10.1146/annurev-polisci-053119-015921
+2025-04-09 11:00:14,425 - INFO - Searching for title: Machine {{Learning}} for {{Social Science}}: {{An Agnostic Approach}}
+2025-04-09 11:00:45,560 - INFO - Downloaded PDF for title: Machine Learning for Social Science An Agnostic Approach
+2025-04-09 11:00:45,561 - INFO - Trying Unpaywall for DOI: 10.1098/rstb.2011.0180
+2025-04-09 11:00:46,130 - INFO - Trying alternative sources for DOI: 10.1098/rstb.2011.0180
+2025-04-09 11:01:16,290 - INFO - Searching for title: Pattern-Oriented Modelling: A `Multi-Scope' for Predictive Systems Ecology
+2025-04-09 11:01:16,843 - WARNING - Could not retrieve PDF for Pattern-Oriented Modelling: A `Multi-Scope' for Predictive Systems Ecology
+2025-04-09 11:01:16,843 - INFO - Trying Unpaywall for DOI: 10.1038/s41586-021-03659-0
+2025-04-09 11:01:18,199 - INFO - Trying alternative sources for DOI: 10.1038/s41586-021-03659-0
+2025-04-09 11:01:48,581 - INFO - Searching for title: Integrating Explanation and Prediction in Computational Social Science
+2025-04-09 11:01:49,168 - WARNING - Could not retrieve PDF for Integrating Explanation and Prediction in Computational Social Science
+2025-04-09 11:01:49,169 - INFO - Trying Unpaywall for DOI: 10.1007/978-90-481-8927-4_9
+2025-04-09 11:01:49,855 - INFO - Trying alternative sources for DOI: 10.1007/978-90-481-8927-4_9
+2025-04-09 11:02:20,017 - INFO - Searching for title: Modelling {{Human Behaviour}} in {{Agent-Based Models}}
+2025-04-09 11:02:28,621 - INFO - Downloaded PDF for title: Modelling Human Behaviour in AgentBased Models
+2025-04-09 11:02:28,622 - INFO - Trying Unpaywall for DOI: 10.1126/science.1167742
+2025-04-09 11:02:29,171 - INFO - Trying alternative sources for DOI: 10.1126/science.1167742
+2025-04-09 11:02:59,310 - INFO - Searching for title: Computational {{Social Science}}
+2025-04-09 11:02:59,533 - WARNING - Could not retrieve PDF for Computational {{Social Science}}
+2025-04-09 11:02:59,534 - INFO - Searching for title: Multi-Agent {{Systems}}
+2025-04-09 11:03:00,067 - WARNING - Could not retrieve PDF for Multi-Agent {{Systems}}
+2025-04-09 11:03:00,068 - INFO - Trying Unpaywall for DOI: 10.1177/0894439313512975
+2025-04-09 11:03:01,271 - INFO - Trying alternative sources for DOI: 10.1177/0894439313512975
+2025-04-09 11:03:31,489 - INFO - Searching for title: Social Simulation in the Social Sciences: {{A}} Brief Overview
+2025-04-09 11:03:32,036 - WARNING - Could not retrieve PDF for Social Simulation in the Social Sciences: {{A}} Brief Overview
+2025-04-09 11:03:32,038 - INFO - Trying Unpaywall for DOI: 10.48550/arXiv.2312.03664
+2025-04-09 11:03:32,811 - INFO - Trying alternative sources for DOI: 10.48550/arXiv.2312.03664
+2025-04-09 11:04:03,156 - INFO - Trying arXiv for ID: 2312.03664
+2025-04-09 11:04:04,217 - INFO - Downloaded PDF for arXiv ID 2312.03664
+2025-04-09 11:04:04,219 - INFO - Trying Unpaywall for DOI: 10.1002/9781119954200.ch1
+2025-04-09 11:04:04,601 - INFO - Trying alternative sources for DOI: 10.1002/9781119954200.ch1
+2025-04-09 11:04:34,989 - INFO - Searching for title: What Is {{Agent-Based Computational Sociology}} All {{About}}?
+2025-04-09 11:06:02,415 - INFO - Downloaded PDF for title: What Is AgentBased Computational Sociology All About
+2025-04-09 11:06:02,417 - INFO - Retrieved 6 PDFs out of 17 entries
+2025-04-09 11:06:02,417 - INFO - Step 2: Processing PDFs with GROBID
+2025-04-09 11:06:03,514 - INFO - Processed Cooperation,_{{Coordination}}_and_{{Social_Norms}}.pdf
+2025-04-09 11:06:09,099 - INFO - Processed Generative_Agent-Based_Modeling_with_Actions_Grounded_in_Physical,_Social,_or_Digital_Space_Using_{{.pdf
+2025-04-09 11:06:12,455 - INFO - Processed Machine_{{Learning}}_for_{{Social_Science}}_{{An_Agnostic_Approach}}.pdf
+2025-04-09 11:06:16,470 - INFO - Processed Manifesto_of_Computational_Social_Science.pdf
+2025-04-09 11:06:20,733 - INFO - Processed Modelling_{{Human_Behaviour}}_in_{{Agent-Based_Models}}.pdf
+2025-04-09 11:06:23,534 - INFO - Processed What_Is_{{Agent-Based_Computational_Sociology}}_All_{{About}}.pdf
+2025-04-09 11:06:24,536 - INFO - Processed 6 PDFs out of 6
+2025-04-09 11:06:24,537 - INFO - Pipeline completed: 6 PDFs processed successfully
+2025-04-09 11:12:54,515 - INFO - Loaded 17 entries from BibTeX
+2025-04-09 11:12:54,515 - INFO - Starting the BibTeX to Structured Text Pipeline
+2025-04-09 11:12:54,515 - INFO - Step 1: Retrieving PDFs
+2025-04-09 11:12:54,540 - INFO - Found PDF in Zotero storage: C:\Users\Jonas\Zotero\storage\2ALHYB7X\Liu et al. - 2024 - LLM-Powered Hierarchical Language Agent for Real-t.pdf
+2025-04-09 11:12:54,540 - INFO - Using locally available PDF from Zotero for Making Computational Social Science Effective: {{Epistemology}}, Methodology, and Technology
+2025-04-09 11:12:54,546 - INFO - Found PDF in Zotero storage: C:\Users\Jonas\Zotero\storage\2ALHYB7X\Liu et al. - 2024 - LLM-Powered Hierarchical Language Agent for Real-t.pdf
+2025-04-09 11:12:54,546 - INFO - Using locally available PDF from Zotero for Manifesto of Computational Social Science
+2025-04-09 11:12:54,551 - INFO - Found PDF in Zotero storage: C:\Users\Jonas\Zotero\storage\2ALHYB7X\Liu et al. - 2024 - LLM-Powered Hierarchical Language Agent for Real-t.pdf
+2025-04-09 11:12:54,552 - INFO - Using locally available PDF from Zotero for Cooperation, {{Coordination}} and {{Social Norms}}
+2025-04-09 11:12:54,558 - INFO - Found PDF in Zotero storage: C:\Users\Jonas\Zotero\storage\2ALHYB7X\Liu et al. - 2024 - LLM-Powered Hierarchical Language Agent for Real-t.pdf
+2025-04-09 11:12:54,558 - INFO - Using locally available PDF from Zotero for Economic Reasoning and Artificial Intelligence {\textbar} {{Science}}
+2025-04-09 11:12:54,563 - INFO - Found PDF in Zotero storage: C:\Users\Jonas\Zotero\storage\2ALHYB7X\Liu et al. - 2024 - LLM-Powered Hierarchical Language Agent for Real-t.pdf
+2025-04-09 11:12:54,563 - INFO - Using locally available PDF from Zotero for Inverse {{Generative Social Science}}: {{Backward}} to the {{Future}}
+2025-04-09 11:12:54,564 - INFO - PDF already exists for Inverse {{Generative Social Science}}: {{Backward}} to the {{Future}}
+2025-04-09 11:12:54,570 - INFO - Found PDF in Zotero storage: C:\Users\Jonas\Zotero\storage\2ALHYB7X\Liu et al. - 2024 - LLM-Powered Hierarchical Language Agent for Real-t.pdf
+2025-04-09 11:12:54,570 - INFO - Using locally available PDF from Zotero for Models of {{Social Influence}}: {{Towards}} the {{Next Frontiers}}
+2025-04-09 11:12:56,852 - INFO - Found PDF in Zotero storage: C:\Users\Jonas\Zotero\storage\2ALHYB7X\Liu et al. - 2024 - LLM-Powered Hierarchical Language Agent for Real-t.pdf
+2025-04-09 11:12:56,852 - INFO - Using locally available PDF from Zotero for Bayesian Estimation of Agent-Based Models
+2025-04-09 11:12:56,858 - INFO - Found PDF in Zotero storage: C:\Users\Jonas\Zotero\storage\2ALHYB7X\Liu et al. - 2024 - LLM-Powered Hierarchical Language Agent for Real-t.pdf
+2025-04-09 11:12:56,858 - INFO - Using locally available PDF from Zotero for Machine {{Learning}} for {{Social Science}}: {{An Agnostic Approach}}
+2025-04-09 11:12:56,866 - INFO - Found PDF in Zotero storage: C:\Users\Jonas\Zotero\storage\2ALHYB7X\Liu et al. - 2024 - LLM-Powered Hierarchical Language Agent for Real-t.pdf
+2025-04-09 11:12:56,866 - INFO - Using locally available PDF from Zotero for Pattern-Oriented Modelling: A `Multi-Scope' for Predictive Systems Ecology
+2025-04-09 11:12:56,873 - INFO - Found PDF in Zotero storage: C:\Users\Jonas\Zotero\storage\2ALHYB7X\Liu et al. - 2024 - LLM-Powered Hierarchical Language Agent for Real-t.pdf
+2025-04-09 11:12:56,873 - INFO - Using locally available PDF from Zotero for Integrating Explanation and Prediction in Computational Social Science
+2025-04-09 11:12:56,880 - INFO - Found PDF in Zotero storage: C:\Users\Jonas\Zotero\storage\2ALHYB7X\Liu et al. - 2024 - LLM-Powered Hierarchical Language Agent for Real-t.pdf
+2025-04-09 11:12:56,880 - INFO - Using locally available PDF from Zotero for Modelling {{Human Behaviour}} in {{Agent-Based Models}}
+2025-04-09 11:12:56,885 - INFO - Found PDF in Zotero storage: C:\Users\Jonas\Zotero\storage\2ALHYB7X\Liu et al. - 2024 - LLM-Powered Hierarchical Language Agent for Real-t.pdf
+2025-04-09 11:12:56,885 - INFO - Using locally available PDF from Zotero for Computational {{Social Science}}
+2025-04-09 11:12:56,892 - INFO - Found PDF in Zotero storage: C:\Users\Jonas\Zotero\storage\2ALHYB7X\Liu et al. - 2024 - LLM-Powered Hierarchical Language Agent for Real-t.pdf
+2025-04-09 11:12:56,892 - INFO - Using locally available PDF from Zotero for Multi-Agent {{Systems}}
+2025-04-09 11:12:56,897 - INFO - Found PDF in Zotero storage: C:\Users\Jonas\Zotero\storage\2ALHYB7X\Liu et al. - 2024 - LLM-Powered Hierarchical Language Agent for Real-t.pdf
+2025-04-09 11:12:56,898 - INFO - Using locally available PDF from Zotero for Social Simulation in the Social Sciences: {{A}} Brief Overview
+2025-04-09 11:12:56,903 - INFO - Found PDF in Zotero storage: C:\Users\Jonas\Zotero\storage\2ALHYB7X\Liu et al. - 2024 - LLM-Powered Hierarchical Language Agent for Real-t.pdf
+2025-04-09 11:12:56,904 - INFO - Using locally available PDF from Zotero for Generative Agent-Based Modeling with Actions Grounded in Physical, Social, or Digital Space Using {{Concordia}}
+2025-04-09 11:12:56,909 - INFO - Found PDF in Zotero storage: C:\Users\Jonas\Zotero\storage\2ALHYB7X\Liu et al. - 2024 - LLM-Powered Hierarchical Language Agent for Real-t.pdf
+2025-04-09 11:12:56,910 - INFO - Using locally available PDF from Zotero for What Is {{Agent-Based Computational Sociology}} All {{About}}?
+2025-04-09 11:12:56,910 - INFO - Retrieved 17 PDFs out of 17 entries
+2025-04-09 11:12:56,910 - INFO - Step 2: Processing PDFs with GROBID
+2025-04-09 11:13:01,426 - INFO - Processed Bayesian_Estimation_of_Agent-Based_Models.pdf
+2025-04-09 11:13:07,004 - INFO - Processed Computational_{{Social_Science}}.pdf
+2025-04-09 11:13:12,677 - INFO - Processed Cooperation,_{{Coordination}}_and_{{Social_Norms}}.pdf
+2025-04-09 11:13:19,919 - INFO - Processed Economic_Reasoning_and_Artificial_Intelligence_{_textbar}_{{Science}}.pdf
+2025-04-09 11:13:26,029 - INFO - Processed Generative_Agent-Based_Modeling_with_Actions_Grounded_in_Physical,_Social,_or_Digital_Space_Using_{{.pdf
+2025-04-09 11:13:32,721 - INFO - Processed Integrating_Explanation_and_Prediction_in_Computational_Social_Science.pdf
+2025-04-09 11:13:38,345 - INFO - Processed Inverse_{{Generative_Social_Science}}_{{Backward}}_to_the_{{Future}}.pdf
+2025-04-09 11:13:44,281 - INFO - Processed Machine_{{Learning}}_for_{{Social_Science}}_{{An_Agnostic_Approach}}.pdf
+2025-04-09 11:13:50,915 - INFO - Processed Making_Computational_Social_Science_Effective_{{Epistemology}},_Methodology,_and_Technology.pdf
+2025-04-09 11:13:57,722 - INFO - Processed Manifesto_of_Computational_Social_Science.pdf
+2025-04-09 11:14:03,471 - INFO - Processed Modelling_{{Human_Behaviour}}_in_{{Agent-Based_Models}}.pdf
+2025-04-09 11:14:08,911 - INFO - Processed Models_of_{{Social_Influence}}_{{Towards}}_the_{{Next_Frontiers}}.pdf
+2025-04-09 11:14:14,385 - INFO - Processed Multi-Agent_{{Systems}}.pdf
+2025-04-09 11:14:19,883 - INFO - Processed Pattern-Oriented_Modelling_A_`Multi-Scope'_for_Predictive_Systems_Ecology.pdf
+2025-04-09 11:14:25,407 - INFO - Processed Social_Simulation_in_the_Social_Sciences_{{A}}_Brief_Overview.pdf
+2025-04-09 11:14:30,799 - INFO - Processed What_Is_{{Agent-Based_Computational_Sociology}}_All_{{About}}.pdf
+2025-04-09 11:14:31,801 - INFO - Processed 16 PDFs out of 16
+2025-04-09 11:14:31,801 - INFO - Pipeline completed: 16 PDFs processed successfully
+2025-04-09 11:16:21,090 - INFO - Loaded 17 entries from BibTeX
+2025-04-09 11:16:21,090 - INFO - Starting the BibTeX to Structured Text Pipeline
+2025-04-09 11:16:21,090 - INFO - Step 1: Retrieving PDFs
+2025-04-09 11:16:21,126 - INFO - No matching PDF found in Zotero for: Making Computational Social Science Effective: {{Epistemology}}, Methodology, and Technology
+2025-04-09 11:16:21,126 - INFO - Trying Unpaywall for DOI: 10.1177/089443902237317
+2025-04-09 11:16:22,274 - INFO - Trying alternative sources for DOI: 10.1177/089443902237317
+2025-04-09 11:16:52,455 - INFO - Searching for title: Making Computational Social Science Effective: {{Epistemology}}, Methodology, and Technology
+2025-04-09 11:16:53,353 - WARNING - Could not retrieve PDF for Making Computational Social Science Effective: {{Epistemology}}, Methodology, and Technology
+2025-04-09 11:16:53,368 - INFO - No matching PDF found in Zotero for: Manifesto of Computational Social Science
+2025-04-09 11:16:53,368 - INFO - Trying Unpaywall for DOI: 10.1140/epjst/e2012-01697-8
+2025-04-09 11:16:53,922 - INFO - Trying alternative sources for DOI: 10.1140/epjst/e2012-01697-8
+2025-04-09 11:17:24,302 - INFO - Searching for title: Manifesto of Computational Social Science
+2025-04-09 11:17:24,822 - WARNING - Could not retrieve PDF for Manifesto of Computational Social Science
+2025-04-09 11:17:24,837 - INFO - No matching PDF found in Zotero for: Cooperation, {{Coordination}} and {{Social Norms}}
+2025-04-09 11:17:24,837 - INFO - Trying Unpaywall for DOI: 10.1002/9781119954200.ch2
+2025-04-09 11:17:25,546 - INFO - Trying alternative sources for DOI: 10.1002/9781119954200.ch2
+2025-04-09 11:17:55,695 - INFO - Searching for title: Cooperation, {{Coordination}} and {{Social Norms}}
+2025-04-09 11:17:59,220 - INFO - Downloaded PDF for title: Cooperation Coordination and Social Norms
+2025-04-09 11:17:59,230 - INFO - No matching PDF found in Zotero for: Economic Reasoning and Artificial Intelligence {\textbar} {{Science}}
+2025-04-09 11:17:59,230 - INFO - Searching for title: Economic Reasoning and Artificial Intelligence {\textbar} {{Science}}
+2025-04-09 11:17:59,832 - WARNING - Could not retrieve PDF for Economic Reasoning and Artificial Intelligence {\textbar} {{Science}}
+2025-04-09 11:17:59,840 - INFO - No matching PDF found in Zotero for: Inverse {{Generative Social Science}}: {{Backward}} to the {{Future}}
+2025-04-09 11:17:59,840 - INFO - Searching for title: Inverse {{Generative Social Science}}: {{Backward}} to the {{Future}}
+2025-04-09 11:18:23,383 - INFO - Downloaded PDF for title: Inverse Generative Social Science Backward to the Future
+2025-04-09 11:18:23,384 - INFO - PDF already exists for Inverse {{Generative Social Science}}: {{Backward}} to the {{Future}}
+2025-04-09 11:18:23,399 - INFO - No matching PDF found in Zotero for: Models of {{Social Influence}}: {{Towards}} the {{Next Frontiers}}
+2025-04-09 11:18:23,399 - INFO - Trying Unpaywall for DOI: 10.18564/jasss.3521
+2025-04-09 11:18:24,830 - INFO - Trying alternative sources for DOI: 10.18564/jasss.3521
+2025-04-09 11:18:55,177 - INFO - Searching for title: Models of {{Social Influence}}: {{Towards}} the {{Next Frontiers}}
+2025-04-09 11:19:00,288 - INFO - Downloaded PDF for title: Models of Social Influence Towards the Next Frontiers
+2025-04-09 11:19:00,309 - INFO - No matching PDF found in Zotero for: Bayesian Estimation of Agent-Based Models
+2025-04-09 11:19:00,309 - INFO - Trying Unpaywall for DOI: 10.1016/j.jedc.2017.01.014
+2025-04-09 11:19:01,395 - INFO - Trying alternative sources for DOI: 10.1016/j.jedc.2017.01.014
+2025-04-09 11:19:31,624 - INFO - Searching for title: Bayesian Estimation of Agent-Based Models
+2025-04-09 11:19:32,175 - WARNING - Could not retrieve PDF for Bayesian Estimation of Agent-Based Models
+2025-04-09 11:19:32,191 - INFO - No matching PDF found in Zotero for: Machine {{Learning}} for {{Social Science}}: {{An Agnostic Approach}}
+2025-04-09 11:19:32,192 - INFO - Trying Unpaywall for DOI: 10.1146/annurev-polisci-053119-015921
+2025-04-09 11:19:32,771 - INFO - Trying alternative sources for DOI: 10.1146/annurev-polisci-053119-015921
+2025-04-09 11:20:03,005 - INFO - Searching for title: Machine {{Learning}} for {{Social Science}}: {{An Agnostic Approach}}
+2025-04-09 11:20:03,366 - WARNING - Could not retrieve PDF for Machine {{Learning}} for {{Social Science}}: {{An Agnostic Approach}}
+2025-04-09 11:20:03,388 - INFO - No matching PDF found in Zotero for: Pattern-Oriented Modelling: A `Multi-Scope' for Predictive Systems Ecology
+2025-04-09 11:20:03,388 - INFO - Trying Unpaywall for DOI: 10.1098/rstb.2011.0180
+2025-04-09 11:20:04,574 - INFO - Trying alternative sources for DOI: 10.1098/rstb.2011.0180
+2025-04-09 11:20:34,874 - INFO - Searching for title: Pattern-Oriented Modelling: A `Multi-Scope' for Predictive Systems Ecology
+2025-04-09 11:20:35,545 - WARNING - Could not retrieve PDF for Pattern-Oriented Modelling: A `Multi-Scope' for Predictive Systems Ecology
+2025-04-09 11:20:35,560 - INFO - No matching PDF found in Zotero for: Integrating Explanation and Prediction in Computational Social Science
+2025-04-09 11:20:35,560 - INFO - Trying Unpaywall for DOI: 10.1038/s41586-021-03659-0
+2025-04-09 11:20:36,061 - INFO - Trying alternative sources for DOI: 10.1038/s41586-021-03659-0
+2025-04-09 11:21:06,326 - INFO - Searching for title: Integrating Explanation and Prediction in Computational Social Science
+2025-04-09 11:21:08,901 - WARNING - Could not retrieve PDF for Integrating Explanation and Prediction in Computational Social Science
+2025-04-09 11:21:08,917 - INFO - No matching PDF found in Zotero for: Modelling {{Human Behaviour}} in {{Agent-Based Models}}
+2025-04-09 11:21:08,917 - INFO - Trying Unpaywall for DOI: 10.1007/978-90-481-8927-4_9
+2025-04-09 11:21:09,658 - INFO - Trying alternative sources for DOI: 10.1007/978-90-481-8927-4_9
+2025-04-09 11:21:41,501 - INFO - Searching for title: Modelling {{Human Behaviour}} in {{Agent-Based Models}}
+2025-04-09 11:21:47,190 - INFO - Downloaded PDF for title: Modelling Human Behaviour in AgentBased Models
+2025-04-09 11:21:47,205 - INFO - No matching PDF found in Zotero for: Computational {{Social Science}}
+2025-04-09 11:21:47,205 - INFO - Trying Unpaywall for DOI: 10.1126/science.1167742
+2025-04-09 11:21:47,753 - INFO - Trying alternative sources for DOI: 10.1126/science.1167742
+2025-04-09 11:22:18,122 - INFO - Searching for title: Computational {{Social Science}}
+2025-04-09 11:22:19,954 - INFO - Downloaded PDF for title: Computational Social Science
+2025-04-09 11:22:19,963 - INFO - No matching PDF found in Zotero for: Multi-Agent {{Systems}}
+2025-04-09 11:22:19,963 - INFO - Searching for title: Multi-Agent {{Systems}}
+2025-04-09 11:22:20,777 - WARNING - Could not retrieve PDF for Multi-Agent {{Systems}}
+2025-04-09 11:22:20,797 - INFO - No matching PDF found in Zotero for: Social Simulation in the Social Sciences: {{A}} Brief Overview
+2025-04-09 11:22:20,797 - INFO - Trying Unpaywall for DOI: 10.1177/0894439313512975
+2025-04-09 11:22:22,002 - INFO - Trying alternative sources for DOI: 10.1177/0894439313512975
+2025-04-09 11:22:52,264 - INFO - Searching for title: Social Simulation in the Social Sciences: {{A}} Brief Overview
+2025-04-09 11:22:53,120 - WARNING - Could not retrieve PDF for Social Simulation in the Social Sciences: {{A}} Brief Overview
+2025-04-09 11:22:53,135 - INFO - No matching PDF found in Zotero for: Generative Agent-Based Modeling with Actions Grounded in Physical, Social, or Digital Space Using {{Concordia}}
+2025-04-09 11:22:53,136 - INFO - Trying Unpaywall for DOI: 10.48550/arXiv.2312.03664
+2025-04-09 11:22:53,643 - INFO - Trying alternative sources for DOI: 10.48550/arXiv.2312.03664
+2025-04-09 11:23:24,467 - INFO - Trying arXiv for ID: 2312.03664
+2025-04-09 11:23:25,255 - INFO - Downloaded PDF for arXiv ID 2312.03664
+2025-04-09 11:23:25,272 - INFO - No matching PDF found in Zotero for: What Is {{Agent-Based Computational Sociology}} All {{About}}?
+2025-04-09 11:23:25,272 - INFO - Trying Unpaywall for DOI: 10.1002/9781119954200.ch1
+2025-04-09 11:23:25,877 - INFO - Trying alternative sources for DOI: 10.1002/9781119954200.ch1
+2025-04-09 11:23:56,538 - INFO - Searching for title: What Is {{Agent-Based Computational Sociology}} All {{About}}?
+2025-04-09 11:24:09,862 - INFO - Downloaded PDF for title: What Is AgentBased Computational Sociology All About
+2025-04-09 11:24:09,865 - INFO - Retrieved 8 PDFs out of 17 entries
+2025-04-09 11:24:09,865 - INFO - Step 2: Processing PDFs with GROBID
+2025-04-09 11:24:12,225 - INFO - Processed Computational_{{Social_Science}}.pdf
+2025-04-09 11:24:14,296 - INFO - Processed Cooperation,_{{Coordination}}_and_{{Social_Norms}}.pdf
+2025-04-09 11:24:19,177 - INFO - Processed Generative_Agent-Based_Modeling_with_Actions_Grounded_in_Physical,_Social,_or_Digital_Space_Using_{{.pdf
+2025-04-09 11:24:21,391 - INFO - Processed Inverse_{{Generative_Social_Science}}_{{Backward}}_to_the_{{Future}}.pdf
+2025-04-09 11:24:25,271 - INFO - Processed Modelling_{{Human_Behaviour}}_in_{{Agent-Based_Models}}.pdf
+2025-04-09 11:24:30,338 - INFO - Processed Models_of_{{Social_Influence}}_{{Towards}}_the_{{Next_Frontiers}}.pdf
+2025-04-09 11:24:33,068 - INFO - Processed What_Is_{{Agent-Based_Computational_Sociology}}_All_{{About}}.pdf
+2025-04-09 11:24:34,071 - INFO - Processed 7 PDFs out of 7
+2025-04-09 11:24:34,072 - INFO - Pipeline completed: 7 PDFs processed successfully
